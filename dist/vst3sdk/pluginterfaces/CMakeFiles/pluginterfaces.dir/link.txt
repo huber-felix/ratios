@@ -1,0 +1,2 @@
+C:\ProgramData\chocolatey\bin\ar.exe qc ..\..\lib\libpluginterfaces.a CMakeFiles/pluginterfaces.dir/base/conststringtable.cpp.obj CMakeFiles/pluginterfaces.dir/base/coreiids.cpp.obj CMakeFiles/pluginterfaces.dir/base/funknown.cpp.obj CMakeFiles/pluginterfaces.dir/base/ustring.cpp.obj
+C:\ProgramData\chocolatey\bin\ranlib.exe ..\..\lib\libpluginterfaces.a

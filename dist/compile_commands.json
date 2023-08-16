@@ -1,0 +1,632 @@
+[
+{
+  "directory": "Z:/work/ratios/dist",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -Dratios_EXPORTS @CMakeFiles/ratios.dir/includes_CXX.rsp  -Wno-multichar -fvisibility=hidden -fno-keep-inline-dllexport -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\ratios.dir\\src\\ratios_processor.cpp.obj -c Z:\\work\\ratios\\src\\ratios_processor.cpp",
+  "file": "Z:/work/ratios/src/ratios_processor.cpp",
+  "output": "CMakeFiles/ratios.dir/src/ratios_processor.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -Dratios_EXPORTS @CMakeFiles/ratios.dir/includes_CXX.rsp  -Wno-multichar -fvisibility=hidden -fno-keep-inline-dllexport -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\ratios.dir\\src\\ratios_controller.cpp.obj -c Z:\\work\\ratios\\src\\ratios_controller.cpp",
+  "file": "Z:/work/ratios/src/ratios_controller.cpp",
+  "output": "CMakeFiles/ratios.dir/src/ratios_controller.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -Dratios_EXPORTS @CMakeFiles/ratios.dir/includes_CXX.rsp  -Wno-multichar -fvisibility=hidden -fno-keep-inline-dllexport -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\ratios.dir\\src\\ratios_entry.cpp.obj -c Z:\\work\\ratios\\src\\ratios_entry.cpp",
+  "file": "Z:/work/ratios/src/ratios_entry.cpp",
+  "output": "CMakeFiles/ratios.dir/src/ratios_entry.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -Dratios_EXPORTS @CMakeFiles/ratios.dir/includes_CXX.rsp  -Wno-multichar -fvisibility=hidden -fno-keep-inline-dllexport -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\ratios.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\main\\dllmain.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\main\\dllmain.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/main/dllmain.cpp",
+  "output": "CMakeFiles/ratios.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/main/dllmain.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/pluginterfaces",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/pluginterfaces.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\pluginterfaces.dir\\base\\conststringtable.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\pluginterfaces\\base\\conststringtable.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/pluginterfaces/base/conststringtable.cpp",
+  "output": "vst3sdk/pluginterfaces/CMakeFiles/pluginterfaces.dir/base/conststringtable.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/pluginterfaces",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/pluginterfaces.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\pluginterfaces.dir\\base\\coreiids.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\pluginterfaces\\base\\coreiids.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/pluginterfaces/base/coreiids.cpp",
+  "output": "vst3sdk/pluginterfaces/CMakeFiles/pluginterfaces.dir/base/coreiids.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/pluginterfaces",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/pluginterfaces.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\pluginterfaces.dir\\base\\funknown.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\pluginterfaces\\base\\funknown.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/pluginterfaces/base/funknown.cpp",
+  "output": "vst3sdk/pluginterfaces/CMakeFiles/pluginterfaces.dir/base/funknown.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/pluginterfaces",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/pluginterfaces.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\pluginterfaces.dir\\base\\ustring.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\pluginterfaces\\base\\ustring.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/pluginterfaces/base/ustring.cpp",
+  "output": "vst3sdk/pluginterfaces/CMakeFiles/pluginterfaces.dir/base/ustring.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/base",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/base.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\base.dir\\source\\baseiids.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\base\\source\\baseiids.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/base/source/baseiids.cpp",
+  "output": "vst3sdk/base/CMakeFiles/base.dir/source/baseiids.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/base",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/base.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\base.dir\\source\\fbuffer.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\base\\source\\fbuffer.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/base/source/fbuffer.cpp",
+  "output": "vst3sdk/base/CMakeFiles/base.dir/source/fbuffer.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/base",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/base.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\base.dir\\source\\fdebug.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\base\\source\\fdebug.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/base/source/fdebug.cpp",
+  "output": "vst3sdk/base/CMakeFiles/base.dir/source/fdebug.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/base",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/base.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\base.dir\\source\\fdynlib.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\base\\source\\fdynlib.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/base/source/fdynlib.cpp",
+  "output": "vst3sdk/base/CMakeFiles/base.dir/source/fdynlib.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/base",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/base.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\base.dir\\source\\fobject.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\base\\source\\fobject.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/base/source/fobject.cpp",
+  "output": "vst3sdk/base/CMakeFiles/base.dir/source/fobject.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/base",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/base.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\base.dir\\source\\fstreamer.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\base\\source\\fstreamer.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/base/source/fstreamer.cpp",
+  "output": "vst3sdk/base/CMakeFiles/base.dir/source/fstreamer.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/base",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/base.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\base.dir\\source\\fstring.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\base\\source\\fstring.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/base/source/fstring.cpp",
+  "output": "vst3sdk/base/CMakeFiles/base.dir/source/fstring.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/base",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/base.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\base.dir\\source\\timer.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\base\\source\\timer.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/base/source/timer.cpp",
+  "output": "vst3sdk/base/CMakeFiles/base.dir/source/timer.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/base",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/base.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\base.dir\\source\\updatehandler.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\base\\source\\updatehandler.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/base/source/updatehandler.cpp",
+  "output": "vst3sdk/base/CMakeFiles/base.dir/source/updatehandler.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/base",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/base.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\base.dir\\thread\\source\\fcondition.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\base\\thread\\source\\fcondition.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/base/thread/source/fcondition.cpp",
+  "output": "vst3sdk/base/CMakeFiles/base.dir/thread/source/fcondition.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/base",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/base.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\base.dir\\thread\\source\\flock.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\base\\thread\\source\\flock.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/base/thread/source/flock.cpp",
+  "output": "vst3sdk/base/CMakeFiles/base.dir/thread/source/flock.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk_common.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk_common.dir\\source\\common\\commoniids.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\common\\commoniids.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/common/commoniids.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk_common.dir/source/common/commoniids.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk_common.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk_common.dir\\source\\common\\openurl.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\common\\openurl.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/common/openurl.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk_common.dir/source/common/openurl.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk_common.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk_common.dir\\source\\common\\readfile.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\common\\readfile.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/common/readfile.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk_common.dir/source/common/readfile.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk_common.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk_common.dir\\source\\common\\systemclipboard_linux.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\common\\systemclipboard_linux.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/common/systemclipboard_linux.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk_common.dir/source/common/systemclipboard_linux.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk_common.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk_common.dir\\source\\common\\systemclipboard_win32.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\common\\systemclipboard_win32.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/common/systemclipboard_win32.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk_common.dir/source/common/systemclipboard_win32.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk_common.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk_common.dir\\source\\common\\threadchecker_linux.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\common\\threadchecker_linux.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/common/threadchecker_linux.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk_common.dir/source/common/threadchecker_linux.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk_common.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk_common.dir\\source\\common\\threadchecker_win32.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\common\\threadchecker_win32.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/common/threadchecker_win32.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk_common.dir/source/common/threadchecker_win32.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk_common.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk_common.dir\\source\\vst\\vstpresetfile.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\vstpresetfile.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/vstpresetfile.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk_common.dir/source/vst/vstpresetfile.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk.dir\\source\\common\\pluginview.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\common\\pluginview.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/common/pluginview.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk.dir/source/common/pluginview.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk.dir\\source\\main\\pluginfactory.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\main\\pluginfactory.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/main/pluginfactory.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk.dir/source/main/pluginfactory.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk.dir\\source\\main\\moduleinit.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\main\\moduleinit.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/main/moduleinit.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk.dir/source/main/moduleinit.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk.dir\\source\\vst\\utility\\stringconvert.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\utility\\stringconvert.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/utility/stringconvert.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk.dir/source/vst/utility/stringconvert.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk.dir\\source\\vst\\utility\\testing.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\utility\\testing.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/utility/testing.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk.dir/source/vst/utility/testing.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk.dir\\source\\vst\\utility\\vst2persistence.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\utility\\vst2persistence.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/utility/vst2persistence.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk.dir/source/vst/utility/vst2persistence.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk.dir\\source\\vst\\vstaudioeffect.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\vstaudioeffect.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/vstaudioeffect.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk.dir/source/vst/vstaudioeffect.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk.dir\\source\\vst\\vstbus.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\vstbus.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/vstbus.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk.dir/source/vst/vstbus.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk.dir\\source\\vst\\vstcomponent.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\vstcomponent.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/vstcomponent.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk.dir/source/vst/vstcomponent.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk.dir\\source\\vst\\vstcomponentbase.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\vstcomponentbase.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/vstcomponentbase.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk.dir/source/vst/vstcomponentbase.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk.dir\\source\\vst\\vsteditcontroller.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\vsteditcontroller.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/vsteditcontroller.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk.dir/source/vst/vsteditcontroller.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk.dir\\source\\vst\\vstinitiids.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\vstinitiids.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/vstinitiids.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk.dir/source/vst/vstinitiids.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk.dir\\source\\vst\\vstnoteexpressiontypes.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\vstnoteexpressiontypes.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/vstnoteexpressiontypes.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk.dir/source/vst/vstnoteexpressiontypes.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk.dir\\source\\vst\\vstparameters.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\vstparameters.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/vstparameters.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk.dir/source/vst/vstparameters.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk.dir\\source\\vst\\vstrepresentation.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\vstrepresentation.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/vstrepresentation.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk.dir/source/vst/vstrepresentation.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk_hosting.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk_hosting.dir\\source\\vst\\hosting\\connectionproxy.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\connectionproxy.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/connectionproxy.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk_hosting.dir/source/vst/hosting/connectionproxy.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk_hosting.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk_hosting.dir\\source\\vst\\hosting\\eventlist.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\eventlist.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/eventlist.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk_hosting.dir/source/vst/hosting/eventlist.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk_hosting.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk_hosting.dir\\source\\vst\\hosting\\hostclasses.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\hostclasses.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/hostclasses.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk_hosting.dir/source/vst/hosting/hostclasses.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk_hosting.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk_hosting.dir\\source\\vst\\hosting\\module.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\module.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/module.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk_hosting.dir/source/vst/hosting/module.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk_hosting.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk_hosting.dir\\source\\vst\\hosting\\parameterchanges.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\parameterchanges.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/parameterchanges.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk_hosting.dir/source/vst/hosting/parameterchanges.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk_hosting.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk_hosting.dir\\source\\vst\\hosting\\pluginterfacesupport.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\pluginterfacesupport.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/pluginterfacesupport.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk_hosting.dir/source/vst/hosting/pluginterfacesupport.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk_hosting.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk_hosting.dir\\source\\vst\\hosting\\processdata.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\processdata.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/processdata.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk_hosting.dir/source/vst/hosting/processdata.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk_hosting.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk_hosting.dir\\source\\vst\\utility\\stringconvert.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\utility\\stringconvert.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/utility/stringconvert.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk_hosting.dir/source/vst/utility/stringconvert.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/sdk_hosting.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\sdk_hosting.dir\\source\\vst\\vstinitiids.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\vstinitiids.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/vstinitiids.cpp",
+  "output": "vst3sdk/public.sdk/CMakeFiles/sdk_hosting.dir/source/vst/vstinitiids.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\common\\memorystream.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\common\\memorystream.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/common/memorystream.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/common/memorystream.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\main\\moduleinit.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\main\\moduleinit.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/main/moduleinit.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/main/moduleinit.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\moduleinfo\\moduleinfoparser.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\moduleinfo\\moduleinfoparser.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/moduleinfo/moduleinfoparser.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/moduleinfo/moduleinfoparser.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\test\\connectionproxytest.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\test\\connectionproxytest.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/test/connectionproxytest.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/test/connectionproxytest.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\test\\eventlisttest.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\test\\eventlisttest.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/test/eventlisttest.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/test/eventlisttest.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\test\\hostclassestest.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\test\\hostclassestest.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/test/hostclassestest.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/test/hostclassestest.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\test\\parameterchangestest.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\test\\parameterchangestest.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/test/parameterchangestest.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/test/parameterchangestest.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\test\\pluginterfacesupporttest.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\test\\pluginterfacesupporttest.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/test/pluginterfacesupporttest.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/test/pluginterfacesupporttest.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\test\\processdatatest.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\test\\processdatatest.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/test/processdatatest.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/test/processdatatest.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\plugprovider.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\plugprovider.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/plugprovider.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/plugprovider.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\bus\\busactivation.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\bus\\busactivation.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/bus/busactivation.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/bus/busactivation.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\bus\\busconsistency.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\bus\\busconsistency.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/bus/busconsistency.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/bus/busconsistency.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\bus\\businvalidindex.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\bus\\businvalidindex.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/bus/businvalidindex.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/bus/businvalidindex.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\bus\\checkaudiobusarrangement.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\bus\\checkaudiobusarrangement.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/bus/checkaudiobusarrangement.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/bus/checkaudiobusarrangement.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\bus\\scanbusses.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\bus\\scanbusses.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/bus/scanbusses.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/bus/scanbusses.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\bus\\sidechainarrangement.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\bus\\sidechainarrangement.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/bus/sidechainarrangement.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/bus/sidechainarrangement.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\general\\editorclasses.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\general\\editorclasses.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/general/editorclasses.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/general/editorclasses.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\general\\midilearn.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\general\\midilearn.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/general/midilearn.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/general/midilearn.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\general\\midimapping.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\general\\midimapping.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/general/midimapping.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/general/midimapping.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\general\\plugcompat.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\general\\plugcompat.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/general/plugcompat.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/general/plugcompat.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\general\\scanparameters.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\general\\scanparameters.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/general/scanparameters.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/general/scanparameters.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\general\\suspendresume.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\general\\suspendresume.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/general/suspendresume.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/general/suspendresume.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\general\\terminit.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\general\\terminit.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/general/terminit.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/general/terminit.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\noteexpression\\keyswitch.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\noteexpression\\keyswitch.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/noteexpression/keyswitch.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/noteexpression/keyswitch.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\noteexpression\\noteexpression.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\noteexpression\\noteexpression.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/noteexpression/noteexpression.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/noteexpression/noteexpression.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\processing\\automation.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\processing\\automation.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/processing/automation.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/processing/automation.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\processing\\process.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\processing\\process.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/processing/process.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/processing/process.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\processing\\processcontextrequirements.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\processing\\processcontextrequirements.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/processing/processcontextrequirements.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/processing/processcontextrequirements.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\processing\\processformat.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\processing\\processformat.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/processing/processformat.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/processing/processformat.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\processing\\processinputoverwriting.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\processing\\processinputoverwriting.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/processing/processinputoverwriting.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/processing/processinputoverwriting.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\processing\\processtail.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\processing\\processtail.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/processing/processtail.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/processing/processtail.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\processing\\processthreaded.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\processing\\processthreaded.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/processing/processthreaded.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/processing/processthreaded.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\processing\\silenceflags.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\processing\\silenceflags.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/processing/silenceflags.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/processing/silenceflags.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\processing\\silenceprocessing.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\processing\\silenceprocessing.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/processing/silenceprocessing.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/processing/silenceprocessing.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\processing\\speakerarrangement.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\processing\\speakerarrangement.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/processing/speakerarrangement.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/processing/speakerarrangement.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\processing\\variableblocksize.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\processing\\variableblocksize.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/processing/variableblocksize.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/processing/variableblocksize.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\state\\bypasspersistence.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\state\\bypasspersistence.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/state/bypasspersistence.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/state/bypasspersistence.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\state\\invalidstatetransition.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\state\\invalidstatetransition.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/state/invalidstatetransition.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/state/invalidstatetransition.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\state\\repeatidenticalstatetransition.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\state\\repeatidenticalstatetransition.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/state/repeatidenticalstatetransition.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/state/repeatidenticalstatetransition.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\state\\validstatetransition.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\state\\validstatetransition.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/state/validstatetransition.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/state/validstatetransition.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\testbase.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\testbase.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/testbase.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/testbase.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\unit\\checkunitstructure.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\unit\\checkunitstructure.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/unit/checkunitstructure.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/unit/checkunitstructure.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\unit\\scanprograms.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\unit\\scanprograms.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/unit/scanprograms.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/unit/scanprograms.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\unit\\scanunits.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\unit\\scanunits.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/unit/scanunits.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/unit/scanunits.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\vsttestsuite.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\testsuite\\vsttestsuite.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/vsttestsuite.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/testsuite/vsttestsuite.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\utility\\testing.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\utility\\testing.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/utility/testing.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/utility/testing.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\source\\main.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\samples\\vst-hosting\\validator\\source\\main.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/samples/vst-hosting/validator/source/main.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/source/main.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\source\\usediids.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\samples\\vst-hosting\\validator\\source\\usediids.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/samples/vst-hosting/validator/source/usediids.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/source/usediids.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\source\\validator.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\samples\\vst-hosting\\validator\\source\\validator.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/samples/vst-hosting/validator/source/validator.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/source/validator.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-hosting/validator",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/validator.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\validator.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\module_win32.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\module_win32.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/module_win32.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/module_win32.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-utilities/moduleinfotool",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/moduleinfotool.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\moduleinfotool.dir\\source\\main.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\samples\\vst-utilities\\moduleinfotool\\source\\main.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/samples/vst-utilities/moduleinfotool/source/main.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-utilities/moduleinfotool/CMakeFiles/moduleinfotool.dir/source/main.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-utilities/moduleinfotool",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/moduleinfotool.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\moduleinfotool.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\moduleinfo\\moduleinfocreator.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\moduleinfo\\moduleinfocreator.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/moduleinfo/moduleinfocreator.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-utilities/moduleinfotool/CMakeFiles/moduleinfotool.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/moduleinfo/moduleinfocreator.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-utilities/moduleinfotool",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/moduleinfotool.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\moduleinfotool.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\moduleinfo\\moduleinfoparser.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\moduleinfo\\moduleinfoparser.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/moduleinfo/moduleinfoparser.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-utilities/moduleinfotool/CMakeFiles/moduleinfotool.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/moduleinfo/moduleinfoparser.cpp.obj"
+},
+{
+  "directory": "Z:/work/ratios/dist/vst3sdk/public.sdk/samples/vst-utilities/moduleinfotool",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe  @CMakeFiles/moduleinfotool.dir/includes_CXX.rsp  -Wno-multichar -DSMTG_RENAME_ASSERT=1 -o CMakeFiles\\moduleinfotool.dir\\C_\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\module_win32.cpp.obj -c C:\\Users\\FHuber\\vst3sdk\\public.sdk\\source\\vst\\hosting\\module_win32.cpp",
+  "file": "C:/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/module_win32.cpp",
+  "output": "vst3sdk/public.sdk/samples/vst-utilities/moduleinfotool/CMakeFiles/moduleinfotool.dir/C_/Users/FHuber/vst3sdk/public.sdk/source/vst/hosting/module_win32.cpp.obj"
+}
+]

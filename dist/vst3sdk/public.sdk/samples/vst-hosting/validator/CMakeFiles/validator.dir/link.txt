@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\validator.dir/objects.a
+C:\ProgramData\chocolatey\bin\ar.exe qc CMakeFiles\validator.dir/objects.a @CMakeFiles\validator.dir\objects1.rsp
+C:\ProgramData\chocolatey\bin\c++.exe  -Wno-multichar -Wl,--whole-archive CMakeFiles\validator.dir/objects.a -Wl,--no-whole-archive -o ..\..\..\..\..\bin\validator.exe -Wl,--out-implib,..\..\..\..\..\lib\libvalidator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\validator.dir\linkLibs.rsp

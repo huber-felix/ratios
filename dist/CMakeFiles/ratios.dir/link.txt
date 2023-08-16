@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\ratios.dir/objects.a
+C:\ProgramData\chocolatey\bin\ar.exe qc CMakeFiles\ratios.dir/objects.a @CMakeFiles\ratios.dir\objects1.rsp
+C:\ProgramData\chocolatey\bin\c++.exe  -Wno-multichar -shared -o VST3\ratios.vst3 -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\ratios.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\ratios.dir\linkLibs.rsp

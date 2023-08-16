@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+a29f0e49fe1bb2598a63a617aa00f2d2 VST3/ratios.vst3/Contents/Resources/myplugin_editor.uidesc
